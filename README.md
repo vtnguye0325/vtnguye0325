@@ -1,16 +1,34 @@
-## Hi there 👋
+<img width="3400" height="920" alt="Image" src="https://github.com/user-attachments/assets/d01de499-8be9-446d-a9f9-e248e02aa778" />
+<h3 align="center">💻 Software Engineer · 🌐 Full-Stack · 🧠 ML Systems</h3>
 
-<!--
-**vtnguye0325/vtnguye0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,postgres" />
+
+
+---
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pytorch" />
+
+---
+
+### Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux" />
+<p><sub>Slurm · Apptainer</sub></p>
+
+---
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+---
+
+- ### 📫 Connect
+- LinkedIn: https://linkedin.com/in/vtnguye
+- Email: vtnguye20000912@gmail.com
+
