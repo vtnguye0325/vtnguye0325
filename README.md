@@ -1,5 +1,5 @@
 <img width="3400" height="920" alt="Image" src="https://github.com/user-attachments/assets/d01de499-8be9-446d-a9f9-e248e02aa778" />
-<h3 align="center">💻 Software Engineer · 🌐 Full-Stack · 🧠 ML Systems</h3>
+<h3 align="center">💻 Software Engineer · 🧠 AI Systems</h3>
 
 
 ---
