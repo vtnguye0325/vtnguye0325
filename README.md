@@ -17,15 +17,52 @@ Vibe Debugging
 
 ---
 
-## 📊 GitHub Stats
+## 👋 About Me
+
+Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
+
+- 🔭 Focused on: full-stack development, shipping fast, and not being afraid to rebuild from scratch
+- 🧠 Also poking around AI systems on the side
+- ⚡ Powered by vibes, caffeine, and stubbornness
+
+---
+
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtnguye0325&theme=tokyonight" />
+
+| Project | What it does |
+| --- | --- |
+| [mark-checker](https://github.com/vtnguye0325/mark-checker) | Checks whether a trademark can be established — an automated prior-use/availability search tool |
+| [nearby-nails](https://github.com/vtnguye0325/nearby-nails) | Online directory app for finding nail salons nearby, built with TypeScript |
+
 </p>
+
+---
+
+## 🔄 Recently Active
+
+<!--START_RECENT_REPOS-->
+
+| Repo | Language | Last Pushed |
+| --- | --- | --- |
+| [neetcode-submissions](https://github.com/vtnguye0325/neetcode-submissions) | Python | 4 days ago |
+| [caffeine-depot-agent](https://github.com/vtnguye0325/caffeine-depot-agent) | HTML | 13 days ago |
+| [edm-news-aggregator](https://github.com/vtnguye0325/edm-news-aggregator) | - | 29 days ago |
+| [mark-checker](https://github.com/vtnguye0325/mark-checker) | Python | 1 month ago |
+| [foodie-rag](https://github.com/vtnguye0325/foodie-rag) | - | 1 month ago |
+
+<!--END_RECENT_REPOS-->
+
+<p align="center"><sub>Auto-updated every 6 hours via GitHub Actions</sub></p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vtnguye0325&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vtnguye0325&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vtnguye0325&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vtnguye0325&theme=tokyonight&utcOffset=-4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vtnguye0325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnguye0325&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -36,22 +73,25 @@ Vibe Debugging
 
 ---
 
-
 ## 🧰 Tech Stack
 
 <p align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,postgres" />
 
 ### Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pytorch" />
 
 ### Infrastructure & DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux" />
 <p><sub>Slurm · Apptainer</sub></p>
 
 ### Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 </p>
