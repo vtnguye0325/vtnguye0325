@@ -1,28 +1,22 @@
-<p align="center">
-  <img src="./github-header-banner.png" alt="Header" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="./github-header-banner.png" alt="Header" />
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/vtnguye">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+      <a href="mailto:vtnguye20000912@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&pause=1000&color=A8C8E8&center=true&vCenter=true&width=600&lines=Vibe+Debugging." />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vtnguye">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vtnguye20000912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
@@ -34,19 +28,6 @@ Full-stack software engineer who breaks things productively and ships anyway. Cu
 - Focused on: full-stack development, shipping fast, and not being afraid to rebuild from scratch
 - Also poking around AI systems on the side
 - Powered by vibes, caffeine, and stubbornness
-
----
-
-# Featured Projects
-
-<p align="center">
-
-| Project                                                     | What it does                                                                                    |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [mark-checker](https://github.com/vtnguye0325/mark-checker) | Checks whether a trademark can be established — an automated prior-use/availability search tool |
-| [nearby-nails](https://github.com/vtnguye0325/nearby-nails) | Online directory app for finding nail salons nearby, built with TypeScript                      |
-
-</p>
 
 ---
 
@@ -70,6 +51,29 @@ Full-stack software engineer who breaks things productively and ships anyway. Cu
 ## Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+# Featured Projects
+
+<p align="center">
+
+| Project                                                     | What it does                                                                                    |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [mark-checker](https://github.com/vtnguye0325/mark-checker) | Checks whether a trademark can be established — an automated prior-use/availability search tool |
+| [nearby-nails](https://github.com/vtnguye0325/nearby-nails) | Online directory app for finding nail salons nearby, built with TypeScript                      |
 
 </p>
 
