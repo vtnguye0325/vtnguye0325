@@ -17,6 +17,16 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 # About Me
 
 Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
@@ -36,21 +46,6 @@ Full-stack software engineer who breaks things productively and ships anyway. Cu
 | [mark-checker](https://github.com/vtnguye0325/mark-checker) | Checks whether a trademark can be established — an automated prior-use/availability search tool |
 | [nearby-nails](https://github.com/vtnguye0325/nearby-nails) | Online directory app for finding nail salons nearby, built with TypeScript                      |
 
-</p>
-
----
-
-# GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vtnguye0325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vtnguye0325&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtnguye0325&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -77,3 +72,20 @@ Full-stack software engineer who breaks things productively and ships anyway. Cu
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 </p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vtnguye0325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vtnguye0325&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtnguye0325&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
