@@ -1,22 +1,5 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="./github-header-banner.png" alt="Header" />
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/vtnguye">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-      <br />
-      <a href="mailto:vtnguye20000912@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&pause=1000&color=A8C8E8&center=true&vCenter=true&width=600&lines=Vibe+Debugging." />
+  <img src="./github-header-banner.png" alt="Header" />
 </p>
 
 ---
