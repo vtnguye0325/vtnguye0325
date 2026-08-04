@@ -6,11 +6,13 @@
 
 # About Me
 
-Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
+## Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
 
-- Focused on: full-stack development, shipping fast, and not being afraid to rebuild from scratch
-- Also poking around AI systems on the side
-- Powered by vibes, caffeine, and stubbornness
+## - Focused on: full-stack development, shipping fast, and not being afraid to rebuild from scratch
+
+## - Also poking around AI systems on the side
+
+## - Powered by vibes, caffeine, and stubbornness
 
 ---
 
@@ -20,20 +22,31 @@ Full-stack software engineer who breaks things productively and ships anyway. Cu
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,postgres" />
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pytorch" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## Infrastructure & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux" />
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <p><sub>Slurm · Apptainer</sub></p>
 
 ## Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
 
