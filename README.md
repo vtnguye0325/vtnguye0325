@@ -6,13 +6,9 @@
 
 # About Me
 
-## Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
-
-## - Focused on: full-stack development, shipping fast, and not being afraid to rebuild from scratch
-
-## - Also poking around AI systems on the side
-
-## - Powered by vibes, caffeine, and stubbornness
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-stack+software+engineer+who+breaks+things+productively;...and+ships+anyway;Focused+on%3A+full-stack+dev%2C+shipping+fast%2C+rebuilding+from+scratch;Also+poking+around+AI+systems+on+the+side;Powered+by+vibes%2C+caffeine%2C+and+stubbornness" alt="About Me typing animation" />
+</p>
 
 ---
 
@@ -41,6 +37,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <p><sub>Slurm · Apptainer</sub></p>
 
 ## Databases
