@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="./github-header-banner.png" alt="Header" />
-</p>
-
----
-
 # About Me
 
-Full-stack software engineer who breaks things productively and ships anyway. Currently deep in full-stack SWE — building, debugging, and rebuilding until it works.
-
-Give me a Claude subscription, a MacBook Pro, and matcha — I can build anything.
+Full-stack SWE working across web and applied AI. Give me a Claude subscription, a MacBook Pro, and a matcha latte and I'll build you anything.
 
 ---
 
