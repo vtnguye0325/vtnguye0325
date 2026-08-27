@@ -1,12 +1,11 @@
-# About Me
-
-Full-stack SWE working across web and applied AI. Give me a Claude subscription, a MacBook Pro, and a matcha latte and I'll build you anything.
-
 <p align="center">
   <a href="https://vincraft.digital">
     <img alt="Project demo" src="./demo.gif" width="600" />
   </a>
 </p>
+
+- Full-stack SWE working across web and applied AI.
+- Give me a Claude subscription, a MacBook Pro, and a matcha latte and I'll build you anything.
 
 <p align="center">
   <picture>
@@ -16,7 +15,6 @@ Full-stack SWE working across web and applied AI. Give me a Claude subscription,
   </picture>
 </p>
 
-
 # Most Used Languages
 
 <p align="center">
@@ -24,4 +22,3 @@ Full-stack SWE working across web and applied AI. Give me a Claude subscription,
 </p>
 
 ---
-
