@@ -3,6 +3,12 @@
 Full-stack SWE working across web and applied AI. Give me a Claude subscription, a MacBook Pro, and a matcha latte and I'll build you anything.
 
 <p align="center">
+  <a href="https://vincraft.digital">
+    <img alt="Project demo" src="./demo.gif" width="600" />
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vtnguye0325/vtnguye0325/refs/heads/output/github-contribution-grid-snake.svg" />
