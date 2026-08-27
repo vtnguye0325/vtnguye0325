@@ -10,20 +10,6 @@ Full-stack SWE working across web and applied AI. Give me a Claude subscription,
   </picture>
 </p>
 
----
-
-# Featured Projects
-
-<p align="center">
-
-| Project                                                     | What it does                                                                                    |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [mark-checker](https://github.com/vtnguye0325/mark-checker) | Checks whether a trademark can be established — an automated prior-use/availability search tool |
-| [nearby-nails](https://github.com/vtnguye0325/nearby-nails) | Online directory app for finding nail salons nearby, built with TypeScript                      |
-
-</p>
-
----
 
 # Most Used Languages
 
