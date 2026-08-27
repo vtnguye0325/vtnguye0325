@@ -85,8 +85,3 @@ Full-stack SWE working across web and applied AI. Give me a Claude subscription,
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtnguye0325&theme=tokyo-night&hide_border=true" />
-</p>
-
----
